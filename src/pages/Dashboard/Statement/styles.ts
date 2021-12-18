@@ -40,5 +40,5 @@ export const StatementItemImage = styled.div<{
     border-radius: 10px;
     margin-bottom: 20px;
 
-    background-color: ${({type, theme}) => type === 'pay' ? theme.colors.red : theme.colors.green};
+    background-color: ${({type, theme}) => type === 'paid' ? theme.colors.red : theme.colors.green};
 `;
