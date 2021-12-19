@@ -1,3 +1,5 @@
 ### Semana Banco inter DIO
 
-Esse é a parte front end da semana front end do banco inter.
+Essa é a parte front end da semana front end do banco inter.
+
+Um sistema de pagamento simulando PIX.
